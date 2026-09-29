@@ -106,27 +106,10 @@ A professional networking interface inspired by LinkedIn, built to practice resp
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aliashfaq-dev&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliashfaq-dev&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-</p>
-
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=aliashfaq-dev&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aliashfaq-dev&theme=tokyo-night&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=aliashfaq-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---

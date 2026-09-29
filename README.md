@@ -92,7 +92,7 @@ A freelance marketplace interface inspired by Upwork, created to practice modern
 
 ### 💬 Facebook Replica
 
-A responsive social-media interface inspired by Facebook, focused on building modern layouts, reusable React components, and interactive user interfaces.
+A responsive social-media interface inspired by Facebook, focused on modern layouts, reusable React components, and interactive user interfaces.
 
 **Tech:** React.js • JavaScript • HTML • CSS
 
@@ -109,8 +109,8 @@ A professional networking interface inspired by LinkedIn, built to practice resp
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aliashfaq122&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliashfaq122&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aliashfaq-dev&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliashfaq-dev&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
 ---
@@ -118,7 +118,7 @@ A professional networking interface inspired by LinkedIn, built to practice resp
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=aliashfaq122&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=aliashfaq-dev&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -126,7 +126,7 @@ A professional networking interface inspired by LinkedIn, built to practice resp
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aliashfaq122&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aliashfaq-dev&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -135,7 +135,7 @@ A professional networking interface inspired by LinkedIn, built to practice resp
 
 📧 **Email:** [muhammedaliashfaq@gmail.com](mailto:muhammedaliashfaq@gmail.com)
 
-💻 **GitHub:** [github.com/aliashfaq122](https://github.com/aliashfaq122)
+💻 **GitHub:** [github.com/aliashfaq-dev](https://github.com/aliashfaq-dev)
 
 ---
 
